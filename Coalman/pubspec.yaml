@@ -1,0 +1,6 @@
+name: firstDart
+dependencies:
+  bot:
+    git:
+      url: git://github.com/kevmoo/bot.dart.git
+      ref: v0.1.0
